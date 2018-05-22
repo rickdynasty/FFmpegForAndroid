@@ -1,4 +1,4 @@
-prefix=/home/rick/workspace/FFmpeg4Android/ffmpeg-3.2.5/fdk-aac-0.1.5/android/x86
+prefix=/home/rick/workspace/FFmpegForAndroid/ffmpeg-3.3.7/fdk-aac-0.1.5/android/x86
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
